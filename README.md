@@ -2,7 +2,7 @@
 ## Certification Course Projects
 
 * ### Responsive Web Design Cert.
-  * [Build a Tribute Page](https://mikekamilos.github.io/free-code-camp/fcc1-resdes/tribute-page/index.html){:target="_blank"}
+  * [Build a Tribute Page](https://mikekamilos.github.io/free-code-camp/fcc1-resdes/tribute-page/index.html){target="_blank"}
   * Build a Survey Form
   * Build a Product Landing Page
   * Build a Technical Documentation Page
