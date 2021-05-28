@@ -4,9 +4,9 @@
 * ### Responsive Web Design Cert.
   * [Build a Tribute Page](https://mikekamilos.github.io/free-code-camp/fcc1-resdes/tribute-page/index.html)
   * [Build a Survey Form](https://mikekamilos.github.io/free-code-camp/fcc1-resdes/survey-form/index.html)
-  * [Build a Product Landing Page](https://mikekamilos.github.io/fcc1-resdes/product-landing-page/index.html)
-  * [Build a Technical Documentation Page](https://mikekamilos.github.io/fcc1-resdes/technical-documentation-page/index.html)
-  * [Build a Personal Portfolio Webpage](https://mikekamilos.github.io/fcc1-resdes/personal-portfolio-webpage/index.html)
+  * [Build a Product Landing Page](https://mikekamilos.github.io/free-code-camp/fcc1-resdes/product-landing-page/index.html)
+  * [Build a Technical Documentation Page](https://mikekamilos.github.io/free-code-camp/fcc1-resdes/technical-documentation-page/index.html)
+  * [Build a Personal Portfolio Webpage](https://mikekamilos.github.io/free-code-camp/fcc1-resdes/personal-portfolio-webpage/index.html)
 * ### JavaScript Algorithms and Data Structures Cert.
   * [Palindrome Checker](#)
   * [Roman Numeral Converter](#)
