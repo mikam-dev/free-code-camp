@@ -5,7 +5,7 @@ const year = new Date().getFullYear();
 const prevPage = `<a id="back-link" href="..">Back</a>`;
 
 // repository title
-const repoTitle = `FreeCodeCamp Certification Projects`;
+const repoTitle = `<span>FreeCodeCamp Certification Projects</span>`;
 
 // home page of github pages
 const ghPages = `<a href="https://mikekamilos.github.io/free-code-camp" target="_blank">Home</a>`;
