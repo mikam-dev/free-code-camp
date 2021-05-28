@@ -1,3 +1,10 @@
+# MY CUSTOM CHANGES .gitignore 
+main.css
+main.html
+main.js
+
+
+# DEFAULT TEMPLATE Node.gitignore
 # Logs
 logs
 *.log
