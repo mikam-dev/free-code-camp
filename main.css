@@ -26,3 +26,8 @@ main {
 	background: #fafafa;
 	color: #202020;
 }
+
+.details>a {
+	color: #4682b4;
+	text-decoration: underline;
+}
