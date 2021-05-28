@@ -1,4 +1,4 @@
-# U+261A [Go back](https://mikekamilos.github.io/) | freeCodeCamp
+# &#9754; [Go back](https://mikekamilos.github.io/) | freeCodeCamp
 ## Certification Course Projects
 
 * ### Responsive Web Design Cert.
