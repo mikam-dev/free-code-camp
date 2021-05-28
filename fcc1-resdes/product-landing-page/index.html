@@ -5,6 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Product Landing Page</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="../../main.css">
 	<link rel="stylesheet" href="./style.css">
 </head>
@@ -12,10 +13,56 @@
 	
 	<div class="details" id="above-header"></div>
 
-	<main></main>
-	
+
+	<main class="content">	
+		<header id="header">
+			<img src="./logo-11.svg" width="200px" alt="logo" id="header-img" onclick="window.location.reload()">
+			<nav id="nav-bar">
+				<a href="#start" class="nav-link">Get Started</a>
+				<a href="#mid" class="nav-link">Products</a>
+				<a href="#end" class="nav-link">Reviews</a>
+			</nav>
+		</header>
+		
+		<section id="start">
+			<h2 class="section-title">Let's get started</h2>
+			<form action="https://www.freecodecamp.com/email-submit" id="form">
+				<input type="email" class="form-control" id="email" placeholder="Enter your email">
+				<input type="submit" class="btn" id="submit" value="Submit">
+			</form>
+		</section>
+		
+		<section id="mid">
+			<h2 class="section-title">Our Products</h2>
+			<div id="products" class="project-group">
+				<div id="tier-1" class="project-card product"></div>
+				<div id="tier-2" class="project-card product"></div>
+				<div id="tier-3" class="project-card product"></div>
+			</div>
+		</section>
+
+		<section id="end">
+			<h2 class="section-title">Reviews</h2>
+			<div id="reviews">
+				<blockquote class="review">
+					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio voluptatum quaerat repudiandae eaque cum repellendus recusandae perferendis, distinctio cupiditate quae eos maiores officia non numquam nostrum facere quia. Suscipit, saepe?</p>
+					<cite>John Smith</cite>
+				</blockquote>
+				<blockquote class="review">
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi nostrum atque, fugiat aliquam minima, voluptas sint facilis aperiam laboriosam dolor quasi reprehenderit voluptates aut, velit autem accusantium modi corporis? Quo?</p>
+					<cite>Mike Lance</cite>
+				</blockquote>
+				<blockquote class="review">
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam obcaecati sit ducimus explicabo enim voluptates vel aliquam laboriosam ipsa vero mollitia maiores dolore autem deleniti id ratione aspernatur, facere omnis.</p>
+					<cite>Molly Jones</cite>
+				</blockquote>
+			</div>
+		</section>
+	</main>
+
 	<div class="details" id="below-footer"></div>
 
 	<script src="../../main.js"></script>
+	<script src="./main.js"></script>
 </body>
 </html>

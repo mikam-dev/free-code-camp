@@ -24,6 +24,7 @@ main {
 	justify-content: space-around;
 	background: #fafafa;
 	color: #202020;
+	z-index: 9;
 }
 
 .details>a {
