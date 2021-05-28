@@ -2,7 +2,7 @@
 const year = new Date().getFullYear();
 
 // go to previous page
-const prevPage = `<a href="..">Back</a>`;
+const prevPage = `<a id="back-link" href="..">Back</a>`;
 
 // repository title
 const repoTitle = `FreeCodeCamp Certification Projects`;
@@ -34,6 +34,14 @@ const belowFooter = `${wpUrl} | ${copyright} | ${ghUrl}`;
 const execute = () => {
 
 	document.getElementById('above-header').innerHTML = aboveHeader;
+
+	const backElem = document.getElementById('back-link');
+
+	backElem.onclick = function() {
+		history.back();
+		return false;
+	}
+
 
 	// document.getElementById('main-content').setAttribute('src', mainContent);
 

@@ -1,4 +1,4 @@
-# &#9754; [Go back](https://mikekamilos.github.io/) | freeCodeCamp
+# &#9754; [Go back](https://mikekamilos.github.io/) | freeCodeCamp Projects
 ## Certification Course Projects
 
 * ### Responsive Web Design Cert.
