@@ -10,7 +10,7 @@ header {
 
 #nav-bar {
 	width: 100%;
-	background: #2a127b60;
+	background: #2a127bea;
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
@@ -69,6 +69,14 @@ section {
 	position: fixed;
 	top: 0;
 	width: 100%;
+	animation: fadeIn 500ms;
+	opacity: 1;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
 }
 
 .sticky + .content {
