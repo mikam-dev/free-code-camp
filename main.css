@@ -17,11 +17,3 @@ body {
 	background: #fafafa;
 	color: #202020;
 }
-
-#main-content {
-	color: #101010;
-	background-color: #fafcff;
-	width: 100%;
-	height: auto;
-	min-height: 100vh;
-}
