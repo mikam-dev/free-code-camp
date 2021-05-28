@@ -1,7 +1,7 @@
 # MY CUSTOM CHANGES .gitignore 
-main.css
+# main.css
 main.html
-main.js
+# main.js
 
 
 # DEFAULT TEMPLATE Node.gitignore
