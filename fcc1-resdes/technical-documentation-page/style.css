@@ -36,9 +36,8 @@
 }
 
 code {
-	border: #101010 1px solid;
 	border-radius: 3px;
-	background-color: #eaeaea;
+	background-color: #f4f8ff;
 	padding: 5px;
 	margin: 5px;
 }
