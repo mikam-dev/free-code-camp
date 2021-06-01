@@ -17,6 +17,10 @@ header {
 	overflow: hidden;
 }
 
+#video {
+	z-index: 0;
+}
+
 #nav-bar a {
 	color: #fafcff;
 	text-decoration: none;

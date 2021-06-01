@@ -31,7 +31,8 @@ main {
 }
 
 #image {
-	width: 100%;
+	width: 80%;
+	max-width: max-content;
 }
 
 #tribute-info {
